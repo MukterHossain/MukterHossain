@@ -1,7 +1,9 @@
 <img src="https://i.ibb.co.com/HGgR496/banner16a-Sm.png" alt="mukterhossain" />
 <h1 align="center">Hi 👋, I'm MD. MUKTER HOSSAIN</h1>
-<h2> About Me </h2>
-<p align="center"> I am a passionate Frontend Web Developer with a solid foundation in HTML, CSS, Tailwind CSS, and JavaScript. I specialize in building responsive and dynamic user interfaces using React.js. I also explore Express.js, Node.js, and MongoDB. I enjoy creating user-friendly web applications and am always eager to learn and adopt new technologies.</p>
+<h2> About Me</h2>
+<h3> About Me</h3>
+<p> About Me</p>
+<p align="justify"> I am a passionate Frontend Web Developer with a solid foundation in HTML, CSS, Tailwind CSS, and JavaScript. I specialize in building responsive and dynamic user interfaces using React.js. I also explore Express.js, Node.js, and MongoDB. I enjoy creating user-friendly web applications and am always eager to learn and adopt new technologies.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mukterhossain&label=Profile%20views&color=0e75b6&style=flat" alt="mukterhossain" /> </p>
 
