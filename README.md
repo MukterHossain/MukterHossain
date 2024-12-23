@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mukterhossain&label=Profile%20views&color=0e75b6&style=flat" alt="mukterhossain" /> </p>
 
-- 🌱 I’m currently learning **React Native, Framework**
+- 🌱 I’m currently learning **Framework**
 
 - 💬 Ask me about **MEARN**
 
