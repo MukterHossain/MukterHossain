@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co.com/g7YdbXr/banner16a.png" alt="mukterhossain" />
+<img src="https://i.ibb.co.com/3r7PdBh/banner16-Sm.png" alt="mukterhossain" />
 <h1 align="center">Hi 👋, I'm MD. MUKTER HOSSAIN</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
